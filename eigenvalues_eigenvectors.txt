@@ -1,0 +1,299 @@
+EIGENVALUES AND EIGENVECTORS OF THE COVARIANCE MATRIX
+(Computed from Z-score Normalized Data)
+============================================================
+
+Variables (columns): ['Age', 'Academic Pressure', 'Work Pressure', 'CGPA', 'Study Satisfaction', 'Job Satisfaction', 'Work/Study Hours', 'Financial Stress', 'Sleep Duration', 'Suicidal Thoughts', 'Family History', 'Is Female', 'Dietary Habits']
+
+============================================================
+PRINCIPAL COMPONENT 1
+============================================================
+Eigenvalue: 1.783155
+Variance explained: 13.71%
+
+Eigenvector:
+  Age                      : -0.021078
+  Academic Pressure        : 0.069200
+  Work Pressure            : -0.700273
+  CGPA                     : 0.091054
+  Study Satisfaction       : 0.013932
+  Job Satisfaction         : -0.700485
+  Work/Study Hours         : 0.030236
+  Financial Stress         : 0.027887
+  Sleep Duration           : -0.009843
+  Suicidal Thoughts        : 0.046935
+  Family History           : 0.019812
+  Is Female                : 0.010673
+  Dietary Habits           : -0.026874
+
+============================================================
+PRINCIPAL COMPONENT 2
+============================================================
+Eigenvalue: 1.629258
+Variance explained: 12.53%
+
+Eigenvector:
+  Age                      : 0.262423
+  Academic Pressure        : -0.484316
+  Work Pressure            : -0.064302
+  CGPA                     : -0.000432
+  Study Satisfaction       : 0.236411
+  Job Satisfaction         : -0.064916
+  Work/Study Hours         : -0.274085
+  Financial Stress         : -0.430899
+  Sleep Duration           : 0.094295
+  Suicidal Thoughts        : -0.534601
+  Family History           : -0.063954
+  Is Female                : 0.011512
+  Dietary Habits           : 0.269487
+
+============================================================
+PRINCIPAL COMPONENT 3
+============================================================
+Eigenvalue: 1.070920
+Variance explained: 8.24%
+
+Eigenvector:
+  Age                      : -0.106986
+  Academic Pressure        : 0.125987
+  Work Pressure            : -0.018180
+  CGPA                     : -0.530346
+  Study Satisfaction       : 0.254449
+  Job Satisfaction         : -0.018112
+  Work/Study Hours         : 0.014512
+  Financial Stress         : 0.017054
+  Sleep Duration           : -0.079393
+  Suicidal Thoughts        : 0.048141
+  Family History           : 0.252681
+  Is Female                : 0.683117
+  Dietary Habits           : 0.293926
+
+============================================================
+PRINCIPAL COMPONENT 4
+============================================================
+Eigenvalue: 1.043163
+Variance explained: 8.02%
+
+Eigenvector:
+  Age                      : -0.410539
+  Academic Pressure        : -0.105997
+  Work Pressure            : -0.018652
+  CGPA                     : -0.299189
+  Study Satisfaction       : 0.420240
+  Job Satisfaction         : -0.013998
+  Work/Study Hours         : -0.199461
+  Financial Stress         : 0.142339
+  Sleep Duration           : 0.515480
+  Suicidal Thoughts        : -0.014643
+  Family History           : -0.229781
+  Is Female                : -0.114841
+  Dietary Habits           : -0.401991
+
+============================================================
+PRINCIPAL COMPONENT 5
+============================================================
+Eigenvalue: 1.001968
+Variance explained: 7.71%
+
+Eigenvector:
+  Age                      : -0.083108
+  Academic Pressure        : 0.052574
+  Work Pressure            : 0.004374
+  CGPA                     : 0.273934
+  Study Satisfaction       : -0.427663
+  Job Satisfaction         : 0.004412
+  Work/Study Hours         : -0.188587
+  Financial Stress         : 0.150927
+  Sleep Duration           : 0.490908
+  Suicidal Thoughts        : -0.006906
+  Family History           : -0.400370
+  Is Female                : 0.424546
+  Dietary Habits           : 0.304035
+
+============================================================
+PRINCIPAL COMPONENT 6
+============================================================
+Eigenvalue: 0.988024
+Variance explained: 7.60%
+
+Eigenvector:
+  Age                      : 0.027405
+  Academic Pressure        : 0.038214
+  Work Pressure            : -0.021098
+  CGPA                     : -0.223855
+  Study Satisfaction       : 0.109921
+  Job Satisfaction         : -0.015877
+  Work/Study Hours         : 0.101289
+  Financial Stress         : -0.014095
+  Sleep Duration           : -0.463777
+  Suicidal Thoughts        : 0.046197
+  Family History           : -0.837887
+  Is Female                : 0.001592
+  Dietary Habits           : 0.071833
+
+============================================================
+PRINCIPAL COMPONENT 7
+============================================================
+Eigenvalue: 0.963059
+Variance explained: 7.41%
+
+Eigenvector:
+  Age                      : 0.567740
+  Academic Pressure        : 0.163276
+  Work Pressure            : -0.038520
+  CGPA                     : -0.547426
+  Study Satisfaction       : -0.278039
+  Job Satisfaction         : -0.039519
+  Work/Study Hours         : 0.263704
+  Financial Stress         : -0.058064
+  Sleep Duration           : 0.400424
+  Suicidal Thoughts        : -0.025623
+  Family History           : -0.057897
+  Is Female                : -0.174591
+  Dietary Habits           : -0.056959
+
+============================================================
+PRINCIPAL COMPONENT 8
+============================================================
+Eigenvalue: 0.952452
+Variance explained: 7.33%
+
+Eigenvector:
+  Age                      : -0.128992
+  Academic Pressure        : -0.165208
+  Work Pressure            : 0.020727
+  CGPA                     : 0.214201
+  Study Satisfaction       : 0.309860
+  Job Satisfaction         : 0.018622
+  Work/Study Hours         : 0.804679
+  Financial Stress         : 0.021593
+  Sleep Duration           : 0.254074
+  Suicidal Thoughts        : -0.005123
+  Family History           : -0.046605
+  Is Female                : -0.042239
+  Dietary Habits           : 0.311263
+
+============================================================
+PRINCIPAL COMPONENT 9
+============================================================
+Eigenvalue: 0.910807
+Variance explained: 7.00%
+
+Eigenvector:
+  Age                      : -0.581554
+  Academic Pressure        : -0.026452
+  Work Pressure            : -0.035255
+  CGPA                     : -0.343093
+  Study Satisfaction       : -0.393635
+  Job Satisfaction         : -0.035685
+  Work/Study Hours         : -0.014187
+  Financial Stress         : -0.169723
+  Sleep Duration           : -0.043455
+  Suicidal Thoughts        : -0.098670
+  Family History           : 0.075971
+  Is Female                : -0.408335
+  Dietary Habits           : 0.415664
+
+============================================================
+PRINCIPAL COMPONENT 10
+============================================================
+Eigenvalue: 0.876382
+Variance explained: 6.74%
+
+Eigenvector:
+  Age                      : 0.247475
+  Academic Pressure        : 0.062907
+  Work Pressure            : 0.001406
+  CGPA                     : -0.013312
+  Study Satisfaction       : 0.307548
+  Job Satisfaction         : -0.002922
+  Work/Study Hours         : -0.310196
+  Financial Stress         : 0.545089
+  Sleep Duration           : 0.039581
+  Suicidal Thoughts        : 0.182680
+  Family History           : 0.041276
+  Is Female                : -0.357049
+  Dietary Habits           : 0.531559
+
+============================================================
+PRINCIPAL COMPONENT 11
+============================================================
+Eigenvalue: 0.833434
+Variance explained: 6.41%
+
+Eigenvector:
+  Age                      : -0.006649
+  Academic Pressure        : 0.577491
+  Work Pressure            : 0.034796
+  CGPA                     : 0.161282
+  Study Satisfaction       : 0.277647
+  Job Satisfaction         : 0.024873
+  Work/Study Hours         : -0.141848
+  Financial Stress         : -0.624642
+  Sleep Duration           : 0.179597
+  Suicidal Thoughts        : 0.280655
+  Family History           : -0.059231
+  Is Female                : -0.110034
+  Dietary Habits           : 0.156825
+
+============================================================
+PRINCIPAL COMPONENT 12
+============================================================
+Eigenvalue: 0.720333
+Variance explained: 5.54%
+
+Eigenvector:
+  Age                      : 0.067657
+  Academic Pressure        : -0.580690
+  Work Pressure            : -0.015618
+  CGPA                     : -0.079440
+  Study Satisfaction       : -0.087465
+  Job Satisfaction         : -0.017816
+  Work/Study Hours         : -0.067465
+  Financial Stress         : -0.223745
+  Sleep Duration           : 0.047980
+  Suicidal Thoughts        : 0.764667
+  Family History           : 0.000183
+  Is Female                : 0.032795
+  Dietary Habits           : 0.031503
+
+============================================================
+PRINCIPAL COMPONENT 13
+============================================================
+Eigenvalue: 0.229569
+Variance explained: 1.77%
+
+Eigenvector:
+  Age                      : -0.002216
+  Academic Pressure        : -0.003203
+  Work Pressure            : 0.706913
+  CGPA                     : -0.002638
+  Study Satisfaction       : -0.001214
+  Job Satisfaction         : -0.707238
+  Work/Study Hours         : 0.000497
+  Financial Stress         : 0.003728
+  Sleep Duration           : -0.002150
+  Suicidal Thoughts        : -0.003312
+  Family History           : -0.003448
+  Is Female                : 0.001790
+  Dietary Habits           : -0.004474
+
+
+============================================================
+SUMMARY TABLE
+============================================================
+
+PC    Eigenvalue      Variance %   Cumulative %
+--------------------------------------------
+PC1   1.783155        13.71        13.71
+PC2   1.629258        12.53        26.24
+PC3   1.070920        8.24         34.48
+PC4   1.043163        8.02         42.50
+PC5   1.001968        7.71         50.21
+PC6   0.988024        7.60         57.81
+PC7   0.963059        7.41         65.21
+PC8   0.952452        7.33         72.54
+PC9   0.910807        7.00         79.54
+PC10  0.876382        6.74         86.28
+PC11  0.833434        6.41         92.69
+PC12  0.720333        5.54         98.23
+PC13  0.229569        1.77         100.00
