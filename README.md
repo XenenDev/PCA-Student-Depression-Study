@@ -11,4 +11,4 @@ These findings suggest PCA-derived compound factors offer superior predictive va
  
 **Full paper available at: 10.5281/zenodo.18103117**
 
-This repository contains all the code used in the study and the associated graphs. Dataset doesn't belong to me.
+*This repository contains all the code used in the study and the associated graphs. Dataset doesn't belong to me.*
