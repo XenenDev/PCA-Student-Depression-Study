@@ -1,5 +1,4 @@
-# Identifying Dominant Predictors of Student
-Depression Using Principal Component Analysis
+# Identifying Dominant Predictors of Student Depression Using Principal Component Analysis
 
 Authored By: **Xander van Pelt**
  
